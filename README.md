@@ -23,8 +23,10 @@ Calculate the probability of the observed sequence by summing the last row of th
 Find the most likely sequence of hidden states by selecting the hidden state with the highest probability at each time step based on the alpha matrix.</br>
 
 ##  Program:
-# Developed by:Madhan S
-# Reg no: 212221040091
+```
+ Developed by:Madhan S
+ Reg no: 212221040091
+```
 # Import the necessary packages
 ```python
 import numpy as np
