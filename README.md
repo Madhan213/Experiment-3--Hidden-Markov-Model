@@ -1,4 +1,6 @@
-# Experiment-5 --Hidden-Markov-Model
+# EXPERIMENT-5
+# DATE:04/10/2023
+# Implementation Of Hidden-Markov-Model
 
 ## Aim:
  Construct a Python code to find the sequence of hidden states by the known sequence of observables using the Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states, happy and sad. 
